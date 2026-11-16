@@ -1,0 +1,12 @@
+test_adaptive_dropout (test_experiments.ExperimentsTest.test_adaptive_dropout) ... ok
+test_depth_and_gradients (test_experiments.ExperimentsTest.test_depth_and_gradients) ... ok
+test_evaluation_is_weighted_and_has_no_gradients (test_experiments.ExperimentsTest.test_evaluation_is_weighted_and_has_no_gradients) ... ok
+test_invalid_experiment_settings (test_experiments.ExperimentsTest.test_invalid_experiment_settings) ... ok
+test_reproducible_loaders (test_experiments.ExperimentsTest.test_reproducible_loaders) ... ok
+test_tiny_problem_can_be_learned (test_experiments.ExperimentsTest.test_tiny_problem_can_be_learned) ... ok
+test_train_validation_disjoint (test_experiments.ExperimentsTest.test_train_validation_disjoint) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.327s
+
+OK
